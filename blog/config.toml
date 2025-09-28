@@ -1,0 +1,4 @@
+baseURL = "https://abhirudraa.github.io/blog/"
+languageCode = "en-us"
+title = "Abhijeet's Blog"
+theme = "PaperMod"
